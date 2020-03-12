@@ -84,12 +84,6 @@ html {
   margin-right: 30px;
 }
 
-html {
-  background-image: linear-gradient(pink, white);
-  height: 100%;
-  z-index: 0;
-}
-
 .title {
   margin-left: 15.6vw;
   margin-top: 4.8vw;
