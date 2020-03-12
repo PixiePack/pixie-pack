@@ -99,7 +99,7 @@ html {
   font-size: 48px;
 }
 
-.techImage {
+#techImage {
   height: 25vh;
   width: auto;
   border-radius: 12px;
