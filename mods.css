@@ -1,3 +1,9 @@
+html {
+  background-image: linear-gradient(pink, white);
+  height: 100%;
+  z-index: 0;
+}
+
 .sidenav {
   margin-top: 4.8vw;
   height: 100%;
