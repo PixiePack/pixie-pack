@@ -94,7 +94,7 @@ html {
 }
 
 .techImage {
-  margin-left: 40vw;
+  left: 40vw;
   height: 15vh;
   width: auto;
 }
