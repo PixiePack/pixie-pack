@@ -104,3 +104,8 @@ html {
   font-family: Nunito;
   font-size: 48px;
 }
+
+.techImage {
+  height: 25vh;
+  width: auto;
+}
