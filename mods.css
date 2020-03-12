@@ -108,4 +108,6 @@ html {
 .techImage {
   height: 25vh;
   width: auto;
+  border-radius: 12px;
+  border-width: 8px;
 }
