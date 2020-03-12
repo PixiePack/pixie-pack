@@ -83,3 +83,18 @@ html {
   height: 100%;
   z-index: 0;
 }
+
+.title {
+  margin-left: 15.6vw;
+  margin-top: 4.8vw;
+  font-family: Nunito;
+  text-align: center;
+  font-size: 32px;
+  text-shadow: 4px 4px #FF7788;
+}
+
+.content {
+  margin-left: 18vw;
+  font-family: Nunito;
+  font-size: 48px;
+}
